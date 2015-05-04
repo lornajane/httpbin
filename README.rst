@@ -3,7 +3,7 @@ httpbin(1): HTTP Request & Response Service
 
 Freely hosted in `HTTP <http://httpbin.org>`__,
 `HTTPS <https://httpbin.org>`__ & `EU <http://eu.httpbin.org/>`__
-flavors by `Runscope <https://www.runscope.com/>`__
+flavors by the lovely people at `Runscope <https://www.runscope.com/>`__
 
 |Build Status|
 
